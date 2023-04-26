@@ -51,9 +51,9 @@
 ---
 
 ### ⚡ Fun facts:
-- I'm a piano player, DJ, ski racer, and 3D-printing enthusiast
+- I'm a pianist, DJ, avid backcountry skier, and 3D-printing enthusiast
 - ASA Certified Sailing Captain
-- I enjoy music production and playing poker
+- I have recently been working on integrating film scores and house
 
 
 <!--add line spacing -->
