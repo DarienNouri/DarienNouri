@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm Darien Nouri 👋
 
 📚 Dual Major in Data Science and Computer Science at New York University
@@ -6,11 +6,11 @@
 🔭 I’m currently working on:
 
 - PropertizeAI - Exploring investment potential of predictive alternative data sources in NYC real estate
-- Predictive Analytics & A.I. Lab - Conducting alternative data research for early signals in the 2024 U.S. Presidential Race
+- Predictive Analytics & A.I. Lab - Conducting NLP based alterative data research into political elections.
 
 🌱 I’m currently learning:
 
-- Big Data Science, Machine Learning, Data Structures & Algorithms, Real Estate Development & Entrepreneurship
+- Big Data Science, Machine Learning, Data Structures & Algorithms, Deep-Learning
 
 👯 I’m looking to collaborate on:
 
@@ -32,4 +32,3 @@
 - ASA Certified Sailing Captain
 - I enjoy music production and playing poker
 
-```
