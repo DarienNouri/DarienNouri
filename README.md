@@ -1,16 +1,35 @@
-### Hi there 👋
+```markdown
+# Hi there, I'm Darien Nouri 👋
 
-<!--
-**DarienNouri/DarienNouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Dual Major in Data Science and Computer Science at New York University
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PropertizeAI - Exploring investment potential of predictive alternative data sources in NYC real estate
+- Predictive Analytics & A.I. Lab - Conducting alternative data research for early signals in the 2024 U.S. Presidential Race
+
+🌱 I’m currently learning:
+
+- Big Data Science, Machine Learning, Data Structures & Algorithms, Real Estate Development & Entrepreneurship
+
+👯 I’m looking to collaborate on:
+
+- Data-driven projects, ML frameworks, data pipelines, and business intelligence tools
+
+💬 Ask me about:
+
+- My experience in data science, real estate, and predictive analytics
+
+📫 How to reach me:
+
+- Email: darien.nouri@nyu.edu
+- GitHub: [DarienNouri](https://github.com/DarienNouri)
+- Website: [Darien.AI](http://darien.ai)
+
+⚡ Fun facts:
+
+- I'm a piano player, DJ, ski racer, and 3D-printing enthusiast
+- ASA Certified Sailing Captain
+- I enjoy music production and playing poker
+
+```
