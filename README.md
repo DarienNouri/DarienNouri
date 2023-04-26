@@ -9,19 +9,28 @@
 
 <div id="badges" align="center">
 
+  <a> 
+  <img src="https://komarev.com/ghpvc/?username=DarienNouri&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
+    </a>
+  <a href="https://www.darien.ai">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&" alt="Portfolio Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/darien-nouri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.darien.ai">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&" alt="Youtube Badge"/>
-  </a>
 
+  
 </div>
+
+<br> <br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dariennouri&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs" alt="Darien's GitHub stats" width="400"/>
 
  <br> <br>
 
 
-<p align="center">
+
 
 # Hi there, I'm Darien Nouri 👋
 
@@ -58,4 +67,3 @@
 
 <!--add line spacing -->
 <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariennouri&count_private=true&theme=tokyonight)
