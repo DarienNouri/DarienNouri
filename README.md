@@ -10,9 +10,9 @@
   <a> 
   <img src="https://komarev.com/ghpvc/?username=DarienNouri&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
-  <a href="https://www.darien.ai">
+<!--   <a href="https://www.darien.ai">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&" alt="Portfolio Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/darien-nouri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -55,7 +55,6 @@
 ###  How to reach me:
 - Email: [dan9232@nyu.edu](mailto:dan9232@nyu.edu)
 - GitHub: [DarienNouri](https://github.com/DarienNouri)
-- Website: [darien.ai](http://darien.ai)
 
 ---
 
