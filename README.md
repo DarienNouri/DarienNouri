@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dariennouri&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs" alt="Darien's GitHub stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dariennouri&count_private=true\&include_all_commits=true&theme=tokyonight&hide=prs,issues,contribs" alt="Darien's GitHub stats" width="400"/>
 
  <br> 
 </p>
@@ -33,7 +33,7 @@
 </h1>
 
 <div align="center">
-    📚 Joint Major in Data Science and Computer Science at <strong>New York University</strong>
+    📚 Joint Major in Data Science and Computer Science at <strong>New York University Center for Data Science</strong>
 </div>
 </p>
 
@@ -41,27 +41,6 @@
 
 ---
 
-###  I’m currently working on:
-- **PropertizeAI** - Exploring investment potential of predictive alternative data sources in NYC real estate
-- **Predictive Analytics & A.I. Lab** - Conducting NLP based alterative data research into political elections.
-
-###  I’m currently learning:
-- NLP Applications in Big Data, Advanced Machine Learning, Deep-Learning, Algorithms
-
-###  I’m looking to collaborate on:
-- Data-driven projects, ML frameworks, data pipelines, and business intelligence tools
-
-
-###  How to reach me:
-- Email: [dan9232@nyu.edu](mailto:dan9232@nyu.edu)
-- GitHub: [DarienNouri](https://github.com/DarienNouri)
-
----
-
-### ⚡ Fun facts:
-- I'm a pianist, DJ, avid backcountry skier, and 3D-printing enthusiast
-- ASA Certified Sailing Captain
-- I have recently been working on integrating film scores and house
 
 
 <!--add line spacing -->
