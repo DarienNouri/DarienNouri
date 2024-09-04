@@ -1,9 +1,8 @@
 
 
-
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="profile_pic.png" width="100" style="margin-right: 10px;"/>
-  <h1 style="margin: 10;"><strong>Hi there, I'm Darien Nouri 👋</strong></h1>
+  <img src="profile_pic.png" width="100" style="margin-right: 20px;"/>
+  <h1 style="margin: 0;"><strong>Hi there, I'm Darien Nouri 👋</strong></h1>
 </div>
 
 <br>
