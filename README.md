@@ -17,8 +17,9 @@
 
 
 <br>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <!-- <img src="https://readme-stats-contributions-ov7r.vercel.app/api?username=dariennouri&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs,issues,contribs" alt="Darien's GitHub stats" width="400" style="margin-bottom: 10px;"/> -->
+
+<!-- <img src="https://readme-stats-contributions-ov7r.vercel.app/api?username=dariennouri&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs,issues,contribs" alt="Darien's GitHub stats" width="400" style="margin-bottom: 10px;"/> -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <a href="http://www.github.com/DarienNouri">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarienNouri&theme=tokyonight" />
   </a>
