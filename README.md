@@ -1,9 +1,12 @@
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="profile_pic.png" width="100" style="margin-right: 20px;"/>
-  <h1 style="margin: 0;"><strong>Hi there, I'm Darien Nouri 👋</strong></h1>
+<div style="text-align: center;">
+  <div style="display: inline-flex; align-items: center;">
+    <img src="profile_pic.png" width="100" style="margin-right: 20px;"/>
+    <h1 style="margin: 0;"><strong>Hi there, I'm Darien Nouri 👋</strong></h1>
+  </div>
 </div>
+
+
 
 <br>
 
@@ -18,11 +21,14 @@
 <br>
 
 <!-- <img src="https://readme-stats-contributions-ov7r.vercel.app/api?username=dariennouri&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs,issues,contribs" alt="Darien's GitHub stats" width="400" style="margin-bottom: 10px;"/> -->
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+
+
+<p align="center">
   <a href="http://www.github.com/DarienNouri">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarienNouri&theme=tokyonight" />
   </a>
-</div>
+</p>
+
 
 <br>
 <div align="center">
