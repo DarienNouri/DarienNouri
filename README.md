@@ -74,8 +74,8 @@
 - Architected a scalable, cloud-based ecosystem to process and analyze terabytes of diverse datasets, leveraging technologies like MongoDB, AWS services, and distributed computing frameworks such as Dask and PyArrow for efficient data handling.
 - Engineered high-performance data acquisition systems, including a web scraper for MLS data processing over 1 million listings daily, and a parallel ingestion framework for more than 1 billion historical Citibike rides.
 - Integrated Granger-causality optimized alternative data sources, improving market index forecasts by 25% and REIT predictions by 34.2%.
-- Designed an interactive Streamlit application for non-technical stakeholders, allowing intuitive exploration of correlations between alternative data and market trends. ([Feature Explorer Demo Render](https://darien-public-assets.s3.amazonaws.com/feature_exploration_streamlit_app_render.pdf))
-- [GitHub Repository](https://github.com/DarienNouri/alt-data-real-estate-predictions) | [IEEE Report (Pending Submission)](https://darien-public-assets.s3.amazonaws.com/Propertize_IEEE_Conference_Final.pdf)
+- Designed an interactive Streamlit application for non-technical stakeholders, allowing intuitive exploration of correlations between alternative data and market trends. ([Feature Explorer Demo Render](https://files.darien.ai/feature_exploration_streamlit_app_render.pdf))
+- [GitHub Repository](https://github.com/DarienNouri/alt-data-real-estate-predictions) | [IEEE Report (Pending Submission)](https://files.darien.ai/Propertize_IEEE_Conference_Final.pdf)
 
 ### 3. Real Estate Valuator & Market Analysis Frameworks
 
@@ -104,7 +104,7 @@
 - Explored dimensionality reduction techniques like PCA and t-SNE for effective visualization of high-dimensional data, enhancing the interpretability of clustering results.
 - [GitHub Repository](https://github.com/DarienNouri/NLP-Document-Classification)
 
-### 6. Python-Based Web Scrapers
+### 6. Web Scrapers
 
 **Objective:** Developed high-performance web scrapers for automating data extraction from various online platforms, supporting various projects and research initiatives.
 
