@@ -13,7 +13,10 @@ real-estate valuation startup.
 Looking for full-time quant research or data science roles. Based in New York, open to
 relocating.
 
-EMAIL_PENDING · [LinkedIn](https://www.linkedin.com/in/darien-nouri)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat-square)](mailto:EMAIL_PENDING)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darien-nouri)
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r,cpp,postgres,aws,docker" alt="Python, PyTorch, scikit-learn, R, C++, Postgres, AWS, Docker" />
 
 **Projects**
 - [Kalshi vs. NOAA](https://github.com/DarienNouri/kalshi-forecast-value): NYC daily-high temperature markets had lower Brier loss than NOAA's forecast at 12 and 6 hours out, over 90 held-out days each. A fitted blend put all its weight on the market.
